@@ -1,4 +1,4 @@
-# MLP-14
+# MLP-I4
 Measuring and Improving Model Fairness 
 
 Credit Scoring Model
