@@ -2,8 +2,11 @@
 Measuring and Improving Model Fairness 
 
 Credit Scoring Model
+
 ML Technique used – Logistic regression (Train Set– 70%, Test Set – 30%)
+
 Baseline model accuracy – 0.77
+
 ROC_AUC Score – 0.71011
 
 -------------------------------------------------------------------
